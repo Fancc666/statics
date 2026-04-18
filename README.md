@@ -1,7 +1,7 @@
-# i
+# Statics
 
-Pages for markdown generate html site.
+## 用途
 
-Visit [index.md](./index) for more details.
+使用GithubPages渲染一些我的Markdown文档，包含笔记之类。
 
 By FANCC @ 2025
